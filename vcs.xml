@@ -22,6 +22,10 @@
           <option name="url" value="git://github.com/lepture/flask-wtf.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gipi/flask-simple-image-gallery.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\xxx34\PycharmProjects" />
